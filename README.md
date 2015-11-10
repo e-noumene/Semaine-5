@@ -38,4 +38,4 @@ L'exerice principale de cette semaine 5, consistait à styliser un peux plus not
   
   
   Vous trouverez le code ce CV ci-dessus !  
-  Vous pouvez voir ce que ça donne ici : ![ Mon CV ](http://e-noumene.github.io/Semaine-5)
+  Vous pouvez voir ce que ça donne ici : ! [ Mon CV ](http://e-noumene.github.io/Semaine-5)
