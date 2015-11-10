@@ -1,0 +1,89 @@
+body {
+    background-image: url(../image/fabric_plaid.png);
+    padding: 0;
+    margin: 0;
+}
+h3 {
+    font-family: Tahoma, sans-serif;
+    color: #95A5A6;
+}
+footer p {
+    display: inline-block;
+    text-align: center;
+    font-family: Tahoma,sans-serif;
+    color: #ECF0F1;
+    width: 30%;
+    margin-top: 5%;
+    box-sizing: border-box;
+}
+.conteneur p {
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+}
+.l-header, .l-footer {
+    background-image: url(../image/dark_fish_skin.png);
+    width: 100%;
+    padding: 10px;
+}
+.l-footer {
+    position: absolute;
+    bottom: 0;
+}
+.l-conteneur {
+    margin: 15px;
+    padding: 10px;
+}
+.l-section {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    width: 32%;
+    box-sizing: border-box;
+}
+header .image {
+    width: 50%;
+}
+.titre {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-left: -7%;
+    font-family: Tahoma, sans-serif;
+    color: #95A5A6;
+    box-sizing: border-box;
+}
+.image {
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+img {
+    width: 20%;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.inf {
+    margin-left: 20px;
+}
+
+
+li {
+    font-family: Tahoma,sans-serif;
+    list-style-type: circle;
+}
+
+iframe{
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+a {
+    color: #95A5A6;
+    text-decoration: none;
+    padding-left: 10px;
+}
+  .is-hover:hover {
+      color: #ff0000;
+  }
+
